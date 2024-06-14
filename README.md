@@ -7,7 +7,7 @@ The primary objective is to process input words and accurately predict their cor
 
 ### **The data sets used in this project are as follows:**
 
-• A large training set containing 5,000 sentences along with their parts of speech tags.
+• A training set containing 5,000 sentences along with their parts of speech tags.
 
 • A small training set comprising 250 sentences with their parts of speech tags.
 
